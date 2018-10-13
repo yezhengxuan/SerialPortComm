@@ -4,3 +4,7 @@ STM32/Listing
 STM32/Output
 STM32/Project
 STM32/keilkill.bat
+
+WinForm/List1.sln
+WinForm/List1/bin
+WinForm/List1/obj
